@@ -6,16 +6,6 @@
    - Do Homework [This is the style of homework you'll be creating -- note time required and potential edits]
    - Review Tutorial [You'll be making tutorials in this same manner]
    - Review Resources [seeing how they were leveraged to create the homework, tutorial, etc.]
-2. Create your first homework/tutorial set
-   - Lucie
-      - The tutorial for *Visualization* should be focused around "describing distributions" using terms like skew, symmetric, unimodal, etc. I am expecting to rely primarily on the tutorial time to communicate these conceptual/conversational terminologies
-      - The primary tutorial activity should follow up on the *Data Wrangling* tutorial exercise and be of the same style, using either the oly12countries data set or coffee.csv data set, or another data set that you think best lends itself to plotting and describing data distributions
-   - Matthew
-      - *Hypothesis Tests* will introduce (one sample) permutation p-values; and, bootstrap confidence intervals will have already been covered, so operationalizing this should be fairly comfortable as a topic for the students. Therefore, we'll also introduce the nonparametric median and the parametric t-test alternatives through their `scipy.stats` function calls. The nonparametric median test is based on the binomial distribution and the t-test is based on a normal distribution, so considering all three tests allows us to compare and contrast simulation, nonparametric, and parametric testing, with the latter two being theoretical but only the t-test requiring a parametric assumption (since the underlying binomial distribution of the median test is not an assumption, but a fact).  The video shows my treatment of this; but, I think the Tutorial should provide a follow up lecture review of how the median and t-test work and how they calculate p-values. 
-      - *Two Samples* will reintroduce confidence intervals and the above hypothesis in a two-sample contexts. This is meant to provide a second pass over the hypothesis testing material at a slightly more advanced level.
-   - Rohan
-      - This will use `statsmodels`; but, I'd also like to see you introduce `scikit-learn` because it not only prepares students for classification but also provides an easy conversation about why `sklearn` (as a predictive machine learning library) doesn't provide any p-values or uncertainty estimation while `statsmodels` does.
-
 
 |       |Topic            |Designer|Homework                        |Tutorial                         |Notebook                         |Video|Resource|
 |-------|-----------------|--------|--------------------------------|---------------------------------|---------------------------------|-----|--------|
@@ -33,3 +23,16 @@
 |11     |Classification   |        |                                |                                 |                                 |
 |12     |Review/Ethics(?) |        |                                |                                 |                                 |
 
+2. [10-12 hours] Create your first homework/tutorial set
+   - Lucie
+      - The tutorial for *Visualization* should be focused around "describing distributions" using terms like skew, symmetric, unimodal, etc. I am expecting to rely primarily on the tutorial time to communicate these conceptual/conversational terminologies
+      - The primary tutorial activity should follow up on the *Data Wrangling* tutorial exercise and be of the same style, using either the oly12countries data set or coffee.csv data set, or another data set that you think best lends itself to plotting and describing data distributions
+   - Matthew
+      - *Hypothesis Tests* will introduce (one sample) permutation p-values; and, bootstrap confidence intervals will have already been covered, so operationalizing this should be fairly comfortable as a topic for the students. Therefore, we'll also introduce the nonparametric median and the parametric t-test alternatives through their `scipy.stats` function calls. The nonparametric median test is based on the binomial distribution and the t-test is based on a normal distribution, so considering all three tests allows us to compare and contrast simulation, nonparametric, and parametric testing, with the latter two being theoretical but only the t-test requiring a parametric assumption (since the underlying binomial distribution of the median test is not an assumption, but a fact).  The video shows my treatment of this; but, I think the Tutorial should provide a follow up lecture review of how the median and t-test work and how they calculate p-values. 
+      - *Two Samples* will reintroduce confidence intervals and the above hypothesis in a two-sample contexts. This is meant to provide a second pass over the hypothesis testing material at a slightly more advanced level.
+   - Rohan
+      - This will use `statsmodels`; but, I'd also like to see you introduce `scikit-learn` because it not only prepares students for classification but also provides an easy conversation about why `sklearn` (as a predictive machine learning library) doesn't provide any p-values or uncertainty estimation while `statsmodels` does.
+
+3. [2-5 hours] Review your first homework set
+4. [10-12 hours] Create your second homework/tutorial set
+5. [2-5 hours] Review your second homework set
