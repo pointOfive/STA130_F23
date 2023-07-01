@@ -1,0 +1,212 @@
+ID,year,brand,funny,show_product_quickly,danger,celebrity,view_count,like_count,dislike_count,superbowl_ads_dot_com_url
+1,2018,Toyota,FALSE,FALSE,FALSE,FALSE,173929,1233,38,https://superbowl-ads.com/good-odds-toyota/
+2,2020,Bud Light,TRUE,TRUE,TRUE,TRUE,47752,485,14,https://superbowl-ads.com/2020-bud-light-seltzer-inside-posts-brain/
+3,2006,Bud Light,TRUE,FALSE,TRUE,FALSE,142310,129,15,https://superbowl-ads.com/2006-bud-light-bear-attack/
+4,2018,Hynudai,FALSE,TRUE,FALSE,FALSE,198,2,0,https://superbowl-ads.com/hope-detector-nfl-super-bowl-lii-hyundai/
+5,2003,Bud Light,TRUE,TRUE,TRUE,FALSE,13741,20,3,https://superbowl-ads.com/2003-bud-light-hermit-crab/
+6,2020,Toyota,TRUE,TRUE,TRUE,TRUE,23636,115,11,https://superbowl-ads.com/2020-toyota-go-places-with-cobie-smulders/
+7,2020,Coca-Cola,TRUE,FALSE,FALSE,TRUE,304254,1470,384,https://superbowl-ads.com/2020-coca-cola-energy-show-up/
+8,2020,Kia,FALSE,FALSE,FALSE,TRUE,17892,78,6,https://superbowl-ads.com/2020-kia-tough-never-quits/
+9,2020,Hynudai,TRUE,TRUE,FALSE,TRUE,38385,342,7,https://superbowl-ads.com/2020-hyundai-smaht-pahk/
+10,2020,Budweiser,FALSE,TRUE,TRUE,TRUE,782,7,0,https://superbowl-ads.com/2020-budweiser-typical-american/
+11,2010,Hynudai,FALSE,TRUE,FALSE,FALSE,68458,46,14,https://superbowl-ads.com/hd-2010-super-bowl-commercial-new-hyundai-super-bowl-44-xliv-ad-hyundai-body-pass-2011-sonata/
+12,2010,Bud Light,TRUE,FALSE,TRUE,FALSE,3805,9,0,https://superbowl-ads.com/hd-exclusive-bud-light-scientist-2010-superbowl-44-xliv-commercial-ad/
+13,2007,Budweiser,TRUE,TRUE,FALSE,FALSE,184689,133,24,https://superbowl-ads.com/2007-budweiser-king-crab/
+14,2002,Budweiser,FALSE,TRUE,FALSE,FALSE,121400,642,10,https://superbowl-ads.com/2002-budweiser-ground-zero-clydesdales-bow/
+16,2017,NFL,FALSE,TRUE,FALSE,FALSE,865781,2315,130,https://superbowl-ads.com/2017-nfl-super-bowl-51-li-tv-commercial-super-bowl-baby-legends/
+17,2005,Bud Light,TRUE,TRUE,TRUE,FALSE,8990,29,0,https://superbowl-ads.com/2005-bud-light-parrot/
+18,2009,Pepsi,TRUE,FALSE,TRUE,FALSE,129399,345,12,https://superbowl-ads.com/2009-pepsi-max-im-good/
+19,2004,Bud Light,TRUE,TRUE,FALSE,FALSE,3739,115,1,https://superbowl-ads.com/2004-bud-light-frank/
+21,2007,Bud Light,TRUE,TRUE,TRUE,FALSE,72997,86,30,https://superbowl-ads.com/2007-bud-light-slap/
+22,2020,Pepsi,FALSE,TRUE,FALSE,TRUE,29219,146,38,https://superbowl-ads.com/2020-pepsi-zero-sugar-done-right/
+23,2019,Hynudai,TRUE,FALSE,FALSE,TRUE,38968,216,15,https://superbowl-ads.com/2019-hyundai-shopper-assurance-the-elevator-with-jason-bateman/
+24,2009,Budweiser,FALSE,TRUE,FALSE,FALSE,302143,527,15,https://superbowl-ads.com/2009-budweiser-clydesdales-generations/
+25,2011,Kia,TRUE,TRUE,TRUE,FALSE,36832,200,7,https://superbowl-ads.com/2011-kia-optima-one-epic-ride-super-bowl-xlv-commercial/
+26,2019,Doritos,FALSE,TRUE,FALSE,TRUE,41828,683,14,https://superbowl-ads.com/2019-doritos-now-its-hot-with-chance-the-rapper-and-backstreet-boys/
+27,2019,Pepsi,TRUE,TRUE,FALSE,TRUE,69050,773,37,https://superbowl-ads.com/2019-pepsi-more-than-ok/
+28,2013,Hynudai,TRUE,TRUE,TRUE,FALSE,4302,22,0,https://superbowl-ads.com/video-2013-hyundai-sonata-turbo-super-bowl-xlvii-stuck/
+29,2019,NFL,TRUE,TRUE,FALSE,TRUE,77720,680,15,https://superbowl-ads.com/2019-nfl-nfl100/
+30,2011,Coca-Cola,FALSE,FALSE,FALSE,FALSE,113771,235,8,https://superbowl-ads.com/2011-coca-cola-border/
+31,2019,Pepsi,TRUE,TRUE,FALSE,TRUE,128792,961,15,https://superbowl-ads.com/2019-pepsi-bubly-buble/
+32,2016,Hynudai,TRUE,FALSE,TRUE,FALSE,5049,40,3,https://superbowl-ads.com/hyundai-2016-super-bowl-50-ad-chase/
+33,2010,Bud Light,TRUE,FALSE,FALSE,FALSE,85454,120,3,https://superbowl-ads.com/hd-exclusive-stranded-budweiser-2010-super-bowl-44-xliv-commercial-ad/
+34,2000,E-Trade,TRUE,TRUE,FALSE,FALSE,9036,51,2,https://superbowl-ads.com/2000-etrade-monkey-dance/
+35,2001,Bud Light,TRUE,TRUE,FALSE,FALSE,2801,9,0,https://superbowl-ads.com/2001-bud-light-otto/
+36,2018,Doritos,TRUE,TRUE,FALSE,TRUE,23327,333,6,https://superbowl-ads.com/2018-doritos-blaze-vs-mtn-dew-ice/
+37,2001,Budweiser,TRUE,TRUE,FALSE,FALSE,50088,151,3,https://superbowl-ads.com/2001-budweiser-what-are-you-doing/
+38,2018,Coca-Cola,FALSE,TRUE,FALSE,TRUE,301,2,0,https://superbowl-ads.com/life-is-short-have-a-diet-coke-because-i-can-diet-coke/
+39,2013,Hynudai,FALSE,FALSE,FALSE,FALSE,3667,7,2,https://superbowl-ads.com/video-hyundai-2013-super-bowl-xlvii-ad-epic-playdate/
+40,2004,Pepsi,TRUE,FALSE,FALSE,FALSE,179695,295,12,https://superbowl-ads.com/2004-pepsi-bears-find-food/
+41,2018,Kia,FALSE,FALSE,FALSE,TRUE,16399,219,3,https://superbowl-ads.com/2018-kia-stinger-steven-tyler-big-game-ad-feel-something-again/
+42,2018,Pepsi,FALSE,TRUE,FALSE,TRUE,669906,2849,181,https://superbowl-ads.com/2018_pepsi_this_is_the_pepsi/
+44,2010,E-Trade,TRUE,TRUE,FALSE,FALSE,14927,19,1,https://superbowl-ads.com/hd-exclusive-e-trade-baby-tears-2010-superbowl-44-xliv-commercial-ad/
+45,2017,NFL,FALSE,TRUE,FALSE,TRUE,310443,2215,323,https://superbowl-ads.com/2017-nfl-super-bowl-51-li-tv-commercial-inside-lines/
+46,2000,E-Trade,TRUE,TRUE,TRUE,FALSE,67182,121,4,https://superbowl-ads.com/2000-etrade-money-out-of-the-wazoo/
+47,2007,E-Trade,TRUE,FALSE,FALSE,FALSE,97247,97,22,https://superbowl-ads.com/2007-etrade-one-finger/
+48,2000,Budweiser,TRUE,TRUE,FALSE,FALSE,5264,10,1,https://superbowl-ads.com/2000-budweiser-whaasup-game/
+49,2013,Doritos,TRUE,TRUE,FALSE,FALSE,576696,2541,94,https://superbowl-ads.com/video-doritos-2013-super-bowl-xlvii-commercial-goat-for-sale/
+50,2013,Budweiser,FALSE,TRUE,FALSE,FALSE,1171,5,2,https://superbowl-ads.com/video-budweiser-black-crown-2013-super-bowl-xlvii-ad-coronation/
+52,2009,Budweiser,TRUE,TRUE,FALSE,FALSE,49339,67,2,https://superbowl-ads.com/2009-budweiser-clydesdale-plays-fetch/
+53,2012,E-Trade,TRUE,FALSE,FALSE,FALSE,21,0,0,https://superbowl-ads.com/2012-etrade-fatherhood/
+54,2019,Bud Light,TRUE,TRUE,FALSE,FALSE,36683,65,117,https://superbowl-ads.com/2019-bud-light-medieval-barbers/
+55,2017,Kia,TRUE,FALSE,TRUE,TRUE,87687,589,22,https://superbowl-ads.com/2017-kia-super-bowl-51-li-tv-commercial-heros-journey-starring-melissa-mccarthy/
+56,2007,Bud Light,TRUE,TRUE,TRUE,FALSE,177497,392,9,https://superbowl-ads.com/2007-bud-light-but-he-has-bud-light/
+57,2011,Bud Light,TRUE,TRUE,FALSE,FALSE,350,1,1,https://superbowl-ads.com/2011-bud-light-dog-sitter/
+58,2016,Pepsi,FALSE,FALSE,FALSE,TRUE,40818,320,19,https://superbowl-ads.com/pepsi-2016-super-bowl-50-ad-joy-pepsi/
+59,2009,Hynudai,TRUE,TRUE,FALSE,FALSE,373684,585,178,https://superbowl-ads.com/2009-hyundai-angry-bosses/
+60,2011,Coca-Cola,TRUE,FALSE,TRUE,FALSE,87396,53,2,https://superbowl-ads.com/2011-coca-cola-siege/
+61,2016,Hynudai,TRUE,TRUE,FALSE,TRUE,11074,91,5,https://superbowl-ads.com/hyundai-2016-super-bowl-50-ad-ryanville/
+62,2009,Doritos,TRUE,TRUE,FALSE,FALSE,41379,103,9,https://superbowl-ads.com/2009-doritos-new-flavor-pitch/
+63,2010,Doritos,TRUE,TRUE,TRUE,FALSE,219464,1136,28,https://superbowl-ads.com/hd-exclusive-doritos-samurai-2010-super-bowl-44-xliv-commercial-ad/
+65,2007,Coca-Cola,FALSE,TRUE,TRUE,FALSE,249186,452,49,https://superbowl-ads.com/2007-coca-cola-video-game/
+66,2019,Toyota,FALSE,TRUE,FALSE,FALSE,6713,68,5,https://superbowl-ads.com/2019-toyota-supra-wizard/
+67,2002,Budweiser,TRUE,TRUE,FALSE,FALSE,38574,199,7,https://superbowl-ads.com/2002-budweiser-how-ya-doin/
+68,2014,Coca-Cola,TRUE,FALSE,FALSE,FALSE,3900,14,3,https://superbowl-ads.com/2014-coca-going-all-the-way/
+69,2004,Budweiser,TRUE,FALSE,FALSE,FALSE,327529,803,42,https://superbowl-ads.com/2004-budweiser-referee/
+71,2015,Budweiser,TRUE,TRUE,TRUE,FALSE,7621,14,2,https://superbowl-ads.com/2015-budweiser-clydesdale-beer-run/
+72,2016,Hynudai,TRUE,FALSE,FALSE,TRUE,156718,1243,24,https://superbowl-ads.com/hyundai-2016-super-bowl-50-ad-first-date/
+73,2001,Bud Light,TRUE,FALSE,TRUE,FALSE,60774,269,10,https://superbowl-ads.com/2001-bud-light-pencil-pusher/
+74,2003,Bud Light,TRUE,TRUE,TRUE,FALSE,3754,18,1,https://superbowl-ads.com/2003-bud-light-strongman/
+75,2000,Bud Light,TRUE,TRUE,TRUE,FALSE,6641,7,1,https://superbowl-ads.com/2000-bud-light-hold-the-door/
+77,2001,Pepsi,TRUE,FALSE,FALSE,FALSE,788,4,2,https://superbowl-ads.com/2001-pepsi-subway-miracle/
+78,2014,Doritos,TRUE,TRUE,TRUE,FALSE,10929,37,3,https://superbowl-ads.com/2014-doritos-cowboy-kid/
+79,2016,Budweiser,FALSE,TRUE,FALSE,TRUE,136,0,0,https://superbowl-ads.com/budweiser-2016-super-bowl-50-ad-simply-put/
+81,2015,Budweiser,FALSE,TRUE,FALSE,FALSE,79,0,0,https://superbowl-ads.com/budweiser-2015-super-bowl-xlix-ad-brewed-the-hard-way/
+82,2016,Kia,TRUE,FALSE,FALSE,TRUE,14395,86,1,https://superbowl-ads.com/kia-optima-2016-super-bowl-50-ad-walken-closet/
+85,2009,Coca-Cola,FALSE,TRUE,FALSE,FALSE,503550,1490,296,https://superbowl-ads.com/2009-coca-cola-heist/
+87,2004,Toyota,TRUE,TRUE,TRUE,FALSE,112297,640,9,https://superbowl-ads.com/2004-toyota-revenge/
+89,2017,Hynudai,FALSE,FALSE,FALSE,FALSE,907,8,0,https://superbowl-ads.com/2017-hyundai-super-bowl-51-li-tv-commercial-better-super-bowl/
+90,2012,Bud Light,TRUE,TRUE,FALSE,FALSE,14579,42,1,https://superbowl-ads.com/2012-bud-light-rescue-dog/
+91,2008,Budweiser,FALSE,TRUE,FALSE,FALSE,110004,300,7,https://superbowl-ads.com/2008-budweiser-dalmatian-trains-hank-for-team/
+92,2013,Hynudai,TRUE,TRUE,TRUE,FALSE,114478,1042,11,https://superbowl-ads.com/video-hyundai-2013-super-bowl-xlvii-ad-santafe-team/
+93,2010,Doritos,TRUE,TRUE,FALSE,FALSE,11608,22,0,https://superbowl-ads.com/hd-exclusive-casket-funeral-doritos-2010-super-bowl-44-xliv-commercial-ad/
+94,2016,Bud Light,TRUE,TRUE,FALSE,TRUE,487,NA,NA,https://superbowl-ads.com/bud-light-2016-super-bowl-50-ad-the-bud-light-party/
+95,2019,Toyota,FALSE,TRUE,FALSE,FALSE,4873,32,14,https://superbowl-ads.com/2019-toyota-toni-with-antoinette-harris/
+96,2009,Bud Light,TRUE,TRUE,TRUE,FALSE,54079,171,7,https://superbowl-ads.com/2009-bud-light-meeting/
+98,2003,Bud Light,TRUE,TRUE,FALSE,FALSE,147160,53,15,https://superbowl-ads.com/2003-bud-light-yoga/
+99,2019,Coca-Cola,FALSE,TRUE,FALSE,FALSE,81952,417,56,https://superbowl-ads.com/2019-coca-cola-a-coke-is-a-coke/
+100,2012,Hynudai,TRUE,TRUE,TRUE,FALSE,1264,2,0,https://superbowl-ads.com/2012-hyundai-genesis-heart/
+101,2011,Hynudai,TRUE,FALSE,FALSE,FALSE,319,0,0,https://superbowl-ads.com/2011-hyundai-super-bowl-commercial-hypnotized-video/
+102,2015,Kia,TRUE,TRUE,TRUE,TRUE,81049,74,0,https://superbowl-ads.com/2015-kia-sorento-the-perfect-getaway-with-pierce-brosnan/
+103,2014,Budweiser,FALSE,FALSE,FALSE,FALSE,13141,NA,NA,https://superbowl-ads.com/2014-budweiser-a-heros-welcome/
+104,2007,Bud Light,TRUE,TRUE,TRUE,FALSE,218329,309,8,https://superbowl-ads.com/2007-bud-light-rock-scissors-paper/
+105,2008,Hynudai,FALSE,TRUE,FALSE,FALSE,13312,18,11,https://superbowl-ads.com/2008-hyundai-genesis-luxury/
+106,2010,NFL,FALSE,FALSE,FALSE,FALSE,91378,404,14,https://superbowl-ads.com/2010-nfl-best-fans-on-the-planet/
+107,2005,Pepsi,TRUE,TRUE,FALSE,FALSE,111,0,0,https://superbowl-ads.com/2005-pepsi-song-in-a-bottle/
+108,2018,Budweiser,FALSE,FALSE,FALSE,FALSE,39897,138,8,https://superbowl-ads.com/41891-2/
+109,2018,Bud Light,TRUE,TRUE,TRUE,FALSE,33766,144,23,https://superbowl-ads.com/bud-light-the-bud-knight/
+110,2004,Bud Light,TRUE,FALSE,TRUE,FALSE,88445,118,6,https://superbowl-ads.com/2004-bud-light-sleigh-ride/
+111,2002,Budweiser,TRUE,FALSE,FALSE,FALSE,13245,49,3,https://superbowl-ads.com/2002-budweiser-anniversary-card/
+112,2006,Budweiser,TRUE,TRUE,FALSE,FALSE,85274,78,16,https://superbowl-ads.com/2006-budweiser-stadium-crowd-wave/
+113,2014,Bud Light,FALSE,TRUE,FALSE,TRUE,134186,405,27,https://superbowl-ads.com/2014-bud-light-up-for-whatever-2/
+117,2014,Toyota,TRUE,TRUE,FALSE,TRUE,25834,140,5,https://superbowl-ads.com/2014-toyota-highlander-no-room-for-boring/
+118,2009,Bud Light,TRUE,TRUE,TRUE,FALSE,30123,33,2,https://superbowl-ads.com/2009-bud-light-skier/
+119,2014,Kia,FALSE,FALSE,TRUE,TRUE,17209,198,2,https://superbowl-ads.com/2014-kia-the-truth/
+120,2014,Hynudai,TRUE,TRUE,TRUE,TRUE,1874,20,0,https://superbowl-ads.com/2014-hyundai-elantra-nice/
+121,2013,Bud Light,TRUE,TRUE,TRUE,TRUE,546,NA,NA,https://superbowl-ads.com/video-bud-light-2013-super-bowl-xlvii-commercial-lucky-chair/
+122,2008,Bud Light,TRUE,TRUE,FALSE,FALSE,598260,755,54,https://superbowl-ads.com/2008-bud-light-wheel-suck/
+123,2003,Budweiser,TRUE,TRUE,FALSE,FALSE,27378,18,2,https://superbowl-ads.com/2003-budweiser-great-listener/
+124,2013,Bud Light,TRUE,TRUE,FALSE,TRUE,394,1,0,https://superbowl-ads.com/video-bud-light-2013-super-bowl-xlvii-ad-journey/
+125,2011,Doritos,TRUE,TRUE,TRUE,FALSE,122388,561,8,https://superbowl-ads.com/2011-doritos-pug-attack/
+126,2005,Bud Light,TRUE,FALSE,FALSE,FALSE,16997,69,3,https://superbowl-ads.com/2005-bud-light-skydiver/
+129,2008,Bud Light,TRUE,FALSE,FALSE,FALSE,555734,414,58,https://superbowl-ads.com/2008-bud-light-wine-cheese-party/
+130,2012,Pepsi,FALSE,TRUE,FALSE,TRUE,582575,1526,138,https://superbowl-ads.com/2012-pepsi-kings-court/
+131,2012,Doritos,TRUE,FALSE,TRUE,FALSE,86928,130,12,https://superbowl-ads.com/2012-doritos-mans-best-friend/
+132,2012,Toyota,TRUE,TRUE,TRUE,FALSE,116294,1153,13,https://superbowl-ads.com/2012-toyota-camry-its-reinvented/
+134,2002,Bud Light,TRUE,TRUE,TRUE,FALSE,3548,13,0,https://superbowl-ads.com/2002-bud-light-falcon/
+135,2002,Bud Light,TRUE,FALSE,TRUE,FALSE,63129,178,5,https://superbowl-ads.com/2002-bud-light-robobash/
+136,2013,E-Trade,TRUE,TRUE,FALSE,FALSE,139,1,0,https://superbowl-ads.com/video-etrade-baby-2013-super-bowl-xlvii-commercial-save-it/
+137,2008,Bud Light,TRUE,TRUE,TRUE,FALSE,24595,26,3,https://superbowl-ads.com/2008-bud-light-breathe-fire/
+138,2012,Coca-Cola,FALSE,TRUE,FALSE,FALSE,15776,63,4,https://superbowl-ads.com/2012-coca-cola-arghh-ny-bear/
+139,2004,Pepsi,TRUE,TRUE,FALSE,FALSE,55676,222,9,https://superbowl-ads.com/2004-pepsi-jimi-hendrix/
+140,2010,Doritos,TRUE,TRUE,TRUE,FALSE,132054,273,18,https://superbowl-ads.com/hd-exclusive-dog-shock-collar-doritos-commercial-super-bowl-44-2010-super-bowl-xliv/
+141,2012,Kia,TRUE,FALSE,FALSE,TRUE,56257,396,5,https://superbowl-ads.com/2012-kia-optima-drive-the-dream-extended-version/
+142,2012,NFL,FALSE,TRUE,FALSE,TRUE,403641,1980,42,https://superbowl-ads.com/2012-nfl-timeline/
+144,2010,Hynudai,FALSE,FALSE,FALSE,TRUE,176547,306,11,https://superbowl-ads.com/hd-exclusive-2010-super-bowl-xliv-commercial-with-brett-favre-hyundai-commercial/
+145,2004,Bud Light,TRUE,TRUE,TRUE,FALSE,561,6,0,https://superbowl-ads.com/2004-bud-light-paintball/
+146,2008,Bud Light,TRUE,TRUE,FALSE,FALSE,166102,161,10,https://superbowl-ads.com/2008-bud-light-x-ray-vision/
+148,2006,Bud Light,TRUE,TRUE,FALSE,FALSE,95355,328,14,https://superbowl-ads.com/2006-bud-light-magic-fridge/
+149,2007,Coca-Cola,FALSE,TRUE,FALSE,FALSE,11311,29,3,https://superbowl-ads.com/2007-coca-cola-happiness-factory/
+150,2007,Budweiser,FALSE,FALSE,TRUE,FALSE,48035,47,2,https://superbowl-ads.com/2007-budweiser-dalmatian/
+152,2010,Bud Light,TRUE,TRUE,FALSE,TRUE,34565,100,6,https://superbowl-ads.com/hd-exclusive-bud-light-auto-tune-t-pain-2010-superbowl-44-xliv-commercial-ad/
+153,2009,Doritos,TRUE,TRUE,TRUE,FALSE,640393,1921,215,https://superbowl-ads.com/2009-doritos-power-of-the-crunch/
+154,2009,Coca-Cola,TRUE,TRUE,TRUE,TRUE,45799,99,7,https://superbowl-ads.com/2009-coke-zero-mean-troy/
+155,2009,Pepsi,FALSE,FALSE,TRUE,TRUE,1294,7,0,https://superbowl-ads.com/2009-pepsi-anthem/
+156,2001,E-Trade,FALSE,FALSE,TRUE,FALSE,103433,167,7,https://superbowl-ads.com/2001-etrade-dot-com-ghost-town/
+157,2018,Bud Light,TRUE,TRUE,TRUE,FALSE,41441,224,7,https://superbowl-ads.com/bud-light-ye-olde-pep-talk/
+159,2010,Kia,TRUE,TRUE,FALSE,FALSE,50850,92,4,https://superbowl-ads.com/hd-exclusive-kias-big-game-commercial-2010-super-bowl-44-xliv-ad/
+160,2008,Doritos,TRUE,TRUE,TRUE,FALSE,232124,988,31,https://superbowl-ads.com/2008-doritos-mouse-trap/
+161,2012,Coca-Cola,FALSE,TRUE,FALSE,FALSE,10925,71,18,https://superbowl-ads.com/2012-coca-cola-superstition/
+162,2011,Hynudai,FALSE,FALSE,FALSE,FALSE,92,1,0,https://superbowl-ads.com/2011-hyundai-super-bowl-commercial-deprogramming-video/
+163,2008,Coca-Cola,TRUE,TRUE,FALSE,TRUE,14267,36,2,https://superbowl-ads.com/2008-coca-cola-political-parties/
+165,2019,Kia,FALSE,FALSE,FALSE,FALSE,1460,NA,NA,https://superbowl-ads.com/2020-kia-telluride-give-it-everything/
+166,2002,Bud Light,TRUE,FALSE,TRUE,FALSE,67452,270,15,https://superbowl-ads.com/2002-bud-light-satin-sheets/
+167,2013,Kia,TRUE,FALSE,FALSE,FALSE,10338,39,2,https://superbowl-ads.com/video-2013-kia-super-bowl-xlvii-commercial-space-babies/
+168,2008,Pepsi,TRUE,FALSE,TRUE,TRUE,236941,594,14,https://superbowl-ads.com/2008-pepsi-every-sip-with-justin-timberlake/
+170,2011,Hynudai,FALSE,FALSE,FALSE,FALSE,56,0,0,https://superbowl-ads.com/2011-hyundai-super-bowl-commercial-anachronistic-city-video/
+171,2008,Bud Light,TRUE,TRUE,FALSE,TRUE,729583,588,180,https://superbowl-ads.com/2008-bud-light-language-of-love/
+174,2013,Budweiser,FALSE,TRUE,FALSE,FALSE,236,1,0,https://superbowl-ads.com/video-budweiser-black-crown-2013-super-bowl-xlvii-ad-celebration/
+175,2001,Pepsi,TRUE,TRUE,FALSE,FALSE,65162,109,4,https://superbowl-ads.com/2001-pepsi-roller-coaster/
+176,2018,Coca-Cola,FALSE,TRUE,FALSE,FALSE,179,1,0,https://superbowl-ads.com/diet-coke-twisted-mango-groove/
+177,2003,Bud Light,TRUE,TRUE,FALSE,FALSE,177285,229,10,https://superbowl-ads.com/2003-bud-light-upside-down-clown/
+178,2011,Pepsi,TRUE,TRUE,TRUE,FALSE,204026,476,159,https://superbowl-ads.com/2011-pepsi-max-love-hurts/
+179,2018,E-Trade,TRUE,FALSE,FALSE,FALSE,34440,178,11,https://superbowl-ads.com/etrade-commercial-this-is-getting-old/
+180,2016,Budweiser,FALSE,TRUE,FALSE,FALSE,6432,NA,NA,https://superbowl-ads.com/budweiser-2016-super-bowl-50-ad-not-backing/
+181,2008,Coca-Cola,TRUE,TRUE,TRUE,TRUE,62538,217,4,https://superbowl-ads.com/2008-coca-cola-its-mine/
+182,2013,Kia,TRUE,TRUE,TRUE,FALSE,28847,154,10,https://superbowl-ads.com/video-kia-forte-2013-super-bowl-xlvii-commercial-hot-bots/
+183,2014,Coca-Cola,FALSE,TRUE,FALSE,FALSE,92878,450,88,https://superbowl-ads.com/2014-coca-cola-its-beautiful/
+184,2012,Budweiser,FALSE,TRUE,FALSE,FALSE,10,0,0,https://superbowl-ads.com/2012-budweiser-return-of-the-king/
+185,2004,Bud Light,TRUE,TRUE,TRUE,FALSE,5699,27,1,https://superbowl-ads.com/2004-bud-light-fergus/
+186,2007,Bud Light,TRUE,TRUE,FALSE,TRUE,955616,1301,134,https://superbowl-ads.com/2007-bud-light-class-with-carlos-mencia/
+187,2007,Budweiser,FALSE,FALSE,FALSE,TRUE,186,0,0,https://superbowl-ads.com/2007-budweiser-don-shula-vs-jayz/
+188,2019,Kia,FALSE,FALSE,FALSE,FALSE,518,2,1,https://superbowl-ads.com/2019-kia-the-great-unknowns-what-if/
+191,2003,Bud Light,TRUE,TRUE,FALSE,FALSE,175482,268,15,https://superbowl-ads.com/2003-bud-light-mother-in-law/
+192,2018,Toyota,TRUE,TRUE,FALSE,FALSE,353513,1448,222,https://superbowl-ads.com/toyota-2018-big-game-ad-one-team/
+193,2003,Budweiser,TRUE,TRUE,FALSE,FALSE,2732,8,0,https://superbowl-ads.com/2003-budweiser-instant-replay/
+194,2013,Budweiser,FALSE,TRUE,FALSE,FALSE,246619,2225,64,https://superbowl-ads.com/video-budweiser-2013-super-bowl-xlvii-ad-the-clydesdales-brotherhood/
+195,2010,Budweiser,TRUE,TRUE,FALSE,FALSE,42,1,0,https://superbowl-ads.com/hd-exclusive-budweiser-body-bridge-2010-super-bowl-44-xliv-commercial-ad/
+196,2003,Bud Light,TRUE,TRUE,FALSE,FALSE,16083,60,3,https://superbowl-ads.com/2003-bud-light-no-pets-allowed/
+197,2002,E-Trade,TRUE,TRUE,FALSE,FALSE,1361,9,0,https://superbowl-ads.com/2002-etrade-monkey-musical/
+198,2006,Budweiser,TRUE,TRUE,TRUE,FALSE,120196,167,15,https://superbowl-ads.com/2006-budweiser-on-the-roof/
+200,2019,Bud Light,TRUE,TRUE,FALSE,FALSE,125,2,0,https://superbowl-ads.com/2019-bud-light-trojan-horse-occupants/
+201,2007,Toyota,FALSE,TRUE,FALSE,FALSE,286010,221,62,https://superbowl-ads.com/2007-toyota-tundra-see-saw/
+202,2014,Hynudai,TRUE,FALSE,TRUE,FALSE,32557,202,7,https://superbowl-ads.com/2014-hyundai-genesis-dads-sixth-sense/
+203,2006,Pepsi,TRUE,TRUE,TRUE,TRUE,69440,70,7,https://superbowl-ads.com/2006-diet-pepsi-jackie-chan/
+204,2006,Pepsi,TRUE,TRUE,FALSE,TRUE,6430,45,0,https://superbowl-ads.com/2006-diet-pepsi-brown-and-bubbly/
+205,2015,Pepsi,FALSE,TRUE,FALSE,FALSE,998,3,0,https://superbowl-ads.com/pepsi-2015-super-bowl-xlix-ad-halftime-touches-down/
+206,2012,Bud Light,FALSE,TRUE,FALSE,FALSE,21314,29,5,https://superbowl-ads.com/2012-bud-light-platinum-factory/
+207,2009,Doritos,TRUE,TRUE,TRUE,FALSE,20130,46,6,https://superbowl-ads.com/2009-doritos-crystal-ball/
+208,2006,Budweiser,TRUE,FALSE,FALSE,FALSE,746836,2179,78,https://superbowl-ads.com/2006-budweiser-streaker/
+209,2014,Bud Light,FALSE,TRUE,FALSE,FALSE,9649,32,2,https://superbowl-ads.com/2014-bud-light-cool-twist/
+210,2005,Pepsi,TRUE,TRUE,FALSE,TRUE,43983,93,5,https://superbowl-ads.com/2005-diet-pepsi-pdiddy/
+211,2005,Bud Light,TRUE,TRUE,FALSE,TRUE,3183,4,0,https://superbowl-ads.com/2005-bud-light-cedric-stranded/
+212,2005,Bud Light,TRUE,TRUE,FALSE,TRUE,3183,4,0,https://superbowl-ads.com/2005-bud-light-cedric-stranded/
+213,2005,Bud Light,TRUE,TRUE,FALSE,TRUE,3183,4,0,https://superbowl-ads.com/2005-bud-light-cedric-stranded/
+214,2005,Bud Light,TRUE,TRUE,FALSE,TRUE,3183,4,0,https://superbowl-ads.com/2005-bud-light-cedric-stranded/
+215,2007,Bud Light,TRUE,TRUE,FALSE,FALSE,162,0,0,https://superbowl-ads.com/2007-bud-light-apes-plan/
+216,2005,Pepsi,TRUE,FALSE,FALSE,TRUE,293,3,0,https://superbowl-ads.com/2005-diet-pepsi-hot-guy/
+217,2015,Budweiser,FALSE,TRUE,TRUE,FALSE,491630,2327,37,https://superbowl-ads.com/2015-budweiser-lost-dog/
+219,2004,Bud Light,TRUE,TRUE,FALSE,TRUE,39730,37,1,https://superbowl-ads.com/2004-bud-light-cedric-gets-massage/
+220,2003,Budweiser,TRUE,FALSE,FALSE,FALSE,21813,10,0,https://superbowl-ads.com/2003-budweiser-roommate/
+221,2009,E-Trade,TRUE,TRUE,FALSE,FALSE,358142,763,24,https://superbowl-ads.com/2009-etrade-talking-baby/
+222,2013,Pepsi,TRUE,FALSE,FALSE,FALSE,987,2,0,https://superbowl-ads.com/video-2013-pepsi-next-super-bowl-xlvii-commercial-party/
+223,2004,Budweiser,TRUE,FALSE,FALSE,TRUE,88458,351,6,https://superbowl-ads.com/2004-budweiser-lipstick/
+224,2009,Hynudai,FALSE,TRUE,FALSE,FALSE,7253,6,1,https://superbowl-ads.com/2009-hyundai-assurance-contract/
+225,2014,Budweiser,FALSE,FALSE,FALSE,FALSE,81183,232,38,https://superbowl-ads.com/2014-budweiser-puppy-love/
+226,2003,Pepsi,TRUE,TRUE,FALSE,TRUE,35779,NA,NA,https://superbowl-ads.com/2003-pepsi-twist-osbornes/
+227,2015,Coca-Cola,FALSE,FALSE,FALSE,FALSE,48617,331,18,https://superbowl-ads.com/2015-coca-cola-make-it-happy/
+228,2003,NFL,FALSE,FALSE,FALSE,TRUE,18670,42,1,https://superbowl-ads.com/2003-nfl-crazy-with-don-cheadle/
+230,2002,Pepsi,FALSE,TRUE,FALSE,TRUE,385777,5929,73,https://superbowl-ads.com/2002-pepsi-generations-with-britney-spears/
+231,2002,Bud Light,TRUE,TRUE,TRUE,TRUE,4641,19,0,https://superbowl-ads.com/2002-bud-light-cedric-advice/
+233,2001,Bud Light,TRUE,FALSE,FALSE,TRUE,998,3,0,https://superbowl-ads.com/2001-bud-light-cedric-the-entertainer/
+234,2013,Hynudai,FALSE,TRUE,FALSE,FALSE,1190,5,0,https://superbowl-ads.com/video-2013-hyundai-genesis-super-bowl-xlvii-commercial/
+235,2015,Toyota,FALSE,TRUE,FALSE,FALSE,32091,266,6,https://superbowl-ads.com/toyota-camry-2015-super-bowl-xlix-ad-my-bold-dad/
+236,2000,Budweiser,TRUE,FALSE,TRUE,FALSE,111442,163,5,https://superbowl-ads.com/2000-budweiser-rex/
+237,2001,Doritos,TRUE,TRUE,FALSE,TRUE,2985,15,0,https://superbowl-ads.com/2001-doritos-ali-landry/
+239,2008,Bud Light,TRUE,TRUE,FALSE,FALSE,9335,12,1,https://superbowl-ads.com/2008-bud-light-ability-to-fly/
+240,2007,Doritos,TRUE,TRUE,FALSE,FALSE,292010,244,74,https://superbowl-ads.com/2007-doritos-check-out-girl/
+242,2001,Pepsi,TRUE,FALSE,FALSE,TRUE,12106,10,1,https://superbowl-ads.com/2001-pepsi-bob-dole/
+244,2012,Budweiser,FALSE,TRUE,FALSE,FALSE,220292,572,100,https://superbowl-ads.com/2012-budweiser-eternal-optimism/
+245,2001,Pepsi,TRUE,FALSE,TRUE,TRUE,1475,14,0,https://superbowl-ads.com/2001-pepsi-kasparov-vs-pepsi-machine/
+246,2001,E-Trade,TRUE,FALSE,TRUE,FALSE,6513,12,4,https://superbowl-ads.com/2001-etrade-security-guard/
+247,2001,Budweiser,FALSE,FALSE,FALSE,TRUE,77142,334,4,https://superbowl-ads.com/2001-budweiser-nsync/
