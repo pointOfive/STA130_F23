@@ -1,0 +1,42 @@
+"","name","is_local","explicit","popularity","track_number","album.album_type","album.name","album.release_date","album.release_date_precision","album.total_tracks","album.type","danceability","energy","key","loudness","mode","speechiness","liveness","valence","tempo","time_signature"
+"1","Oogie Boogie's Song",FALSE,FALSE,54,1,"single","Oogie Boogie's Song","2019-10-18","day",1,"album",0.425,0.655,11,-6.917,0,0.169,0.68,0.701,172.83,3
+"2","Turnin'",FALSE,FALSE,37,3,"single","Young Rising Sons","2014-07-08","day",4,"album",0.623,0.721,6,-4.888,1,0.0371,0.179,0.677,96.01,4
+"3","8 Letters",FALSE,FALSE,73,1,"album","8 Letters","2018-08-31","day",8,"album",0.607,0.478,1,-5.702,0,0.031,0.0928,0.255,88.979,4
+"4","Parties",FALSE,FALSE,44,3,"album","2:00am in LA","2017-06-16","day",10,"album",0.422,0.551,0,-8.549,1,0.283,0.216,0.417,179.999,4
+"5","Let Me Down Slowly",FALSE,FALSE,0,4,"album","Best English Lofi TikTok","2021-08-11","day",48,"album",0.72,0.256,10,-16.924,1,0.0471,0.169,0.276,82.012,4
+"6","PLASTIC",FALSE,TRUE,46,2,"album","Self-HATE","2020-09-18","day",9,"album",0.761,0.45,7,-7.558,0,0.113,0.0585,0.675,140.035,4
+"7","Stayin' Alive",FALSE,FALSE,73,6,"compilation","Staying Alive (Original Motion Picture Soundtrack)","1977-12-13","day",12,"album",0.707,0.535,10,-19.793,0,0.0436,0.0884,0.641,103.644,4
+"8","September",FALSE,FALSE,82,7,"compilation","The Best Of Earth, Wind & Fire Vol. 1","1978-11-23","day",10,"album",0.697,0.832,9,-7.264,1,0.0298,0.269,0.979,125.926,4
+"9","The Rite of Spring, Part 1: I. Adoration of the Earth",FALSE,FALSE,32,4,"album","The Rite of Spring","2017-10-20","day",17,"album",0.163,0.0187,2,-31.603,1,0.0377,0.101,0.0369,78.652,4
+"10","Jupiter (From The Planets)",FALSE,FALSE,37,3,"album","Last Night of the Proms","2007-08-03","day",17,"album",0.294,0.124,7,-21.561,0,0.0385,0.0792,0.149,132.56,4
+"11","Put Your Records On",FALSE,FALSE,81,1,"single","Put Your Records On","2020-04-24","day",1,"album",0.399,0.491,6,-10.778,0,0.0538,0.11,0.151,91.066,4
+"12","Love Don't Let Me Go",FALSE,FALSE,57,2,"album","Just a Little More Love","2002-06-10","day",14,"album",0.593,0.836,10,-4.774,0,0.0463,0.117,0.406,127.087,4
+"13","Paradise",FALSE,FALSE,81,3,"album","Mylo Xyloto","2011-10-24","day",14,"album",0.449,0.585,5,-6.761,1,0.0268,0.0833,0.212,139.631,4
+"14","MORE",FALSE,FALSE,74,1,"single","MORE","2020-10-28","day",1,"album",0.66,0.787,1,-4.592,0,0.032,0.323,0.199,142.018,4
+"15","Midnight City",FALSE,FALSE,74,2,"album","Hurry Up, We're Dreaming","2011","year",22,"album",0.526,0.712,11,-6.525,0,0.0356,0.179,0.32,105.009,4
+"16","Dancin - Krono Remix",FALSE,FALSE,74,1,"compilation","Ibiza 2019","2019-11-11","day",47,"album",0.751,0.727,10,-9.789,0,0.0304,0.1,0.28,119.983,4
+"17","Life is a Highway",FALSE,FALSE,69,3,"compilation","Cars (Original Motion Picture Soundtrack)","2006-01-01","day",20,"album",0.562,0.934,5,-5.562,1,0.0607,0.199,0.558,103.042,4
+"18","PLACEBO + <U+91CE><U+7530><U+6D0B><U+6B21><U+90CE>",FALSE,FALSE,44,4,"album","STRAY SHEEP","2020-08-05","day",15,"album",0.77,0.852,6,-5.564,1,0.0789,0.063,0.833,113.967,4
+"19","<U+611F><U+96FB>",FALSE,FALSE,71,3,"album","STRAY SHEEP","2020-08-05","day",15,"album",0.633,0.723,8,-5.733,0,0.143,0.0818,0.688,103.101,4
+"20","<U+304D><U+3089><U+308A>",FALSE,FALSE,76,1,"single","<U+304D><U+3089><U+308A>","2021-05-03","day",1,"album",0.746,0.764,2,-6.833,1,0.0462,0.357,0.701,116.982,4
+"21","<U+9752><U+6625><U+75C5>",FALSE,FALSE,62,1,"single","<U+9752><U+6625><U+75C5>","2020-10-30","day",1,"album",0.665,0.809,1,-6.518,1,0.0443,0.322,0.627,108.04,4
+"22","You Don't Mess Around with Jim",FALSE,FALSE,60,1,"album","You Don't Mess Around With Jim","1972-04-01","day",12,"album",0.705,0.581,11,-11.379,0,0.0455,0.117,0.967,163.24,4
+"23","Hedwig's Theme",FALSE,FALSE,66,19,"album","Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack","2001-10-30","day",19,"album",0.156,0.162,2,-17.101,0,0.036,0.111,0.077,73.407,4
+"24","Spooky, Scary Skeletons",FALSE,FALSE,71,3,"album","Halloween Howls: Fun & Scary Music","1996-01-01","day",12,"album",0.806,0.447,7,-10.181,1,0.0461,0.335,0.914,77.033,5
+"25","Genshin Impact - Lofi Remix",FALSE,FALSE,42,1,"single","Genshin Impact (Lofi Remix)","2020-12-30","day",1,"album",0.704,0.326,2,-14.539,1,0.0681,0.266,0.0777,79.987,4
+"26","Funky Galileo",FALSE,FALSE,61,1,"single","Funky Galileo","2020-03-06","day",1,"album",0.802,0.325,10,-9.327,1,0.0466,0.156,0.648,110.995,4
+"27","FRIENDS",FALSE,FALSE,52,1,"single","FRIENDS","2021-02-27","day",2,"album",0.763,0.442,10,-6.3,1,0.112,0.046,0.814,82.138,4
+"28","Violin and Piano Sonata No. 5 in F, Op. 24 ""Spring Sonata"": II. Adagio molto espressivo",FALSE,FALSE,20,2,"album","Beethoven: Complete Sonatas for Piano & Violin","2017-09-29","day",33,"album",0.143,0.0181,10,-28.455,1,0.0485,0.325,0.0743,81.059,4
+"29","Permission to Dance",FALSE,FALSE,87,2,"single","Butter / Permission to Dance","2021-07-09","day",4,"album",0.702,0.741,9,-5.33,1,0.0427,0.337,0.646,124.925,4
+"30","Butter",FALSE,FALSE,91,1,"single","Butter (Hotter, Sweeter, Cooler)","2021-06-04","day",5,"album",0.759,0.459,8,-5.187,1,0.0948,0.0906,0.695,109.997,4
+"31","My Universe",FALSE,FALSE,95,1,"single","My Universe","2021-09-24","day",2,"album",0.588,0.701,9,-6.39,1,0.0402,0.2,0.443,104.988,4
+"32","Dynamite",FALSE,FALSE,87,8,"album","BE","2020-11-20","day",8,"album",0.746,0.765,6,-4.41,0,0.0993,0.0936,0.737,114.044,4
+"33","Blow At High Dough",FALSE,FALSE,51,1,"album","Up To Here","1989-01-01","day",11,"album",0.691,0.59,4,-11.552,1,0.0388,0.112,0.34,121.871,4
+"34","Perfect Places",FALSE,FALSE,30,11,"album","Melodrama","2017-06-16","day",11,"album",0.616,0.574,1,-5.323,0,0.0507,0.111,0.525,104.174,4
+"35","The Rubberband Man",FALSE,FALSE,67,1,"single","The Rubberband Man / Now That We're Together [Digital 45]","1976","year",2,"album",0.801,0.446,10,-14.605,1,0.0735,0.0832,0.925,97.898,4
+"36","Mr. Blue Sky",FALSE,FALSE,81,13,"album","Out of the Blue","1977","year",17,"album",0.388,0.338,10,-10.054,1,0.0329,0.248,0.478,177.765,4
+"37","Be Somebody",FALSE,FALSE,64,7,"album","The End Is Where We Begin","2012-04-17","day",15,"album",0.457,0.669,6,-5.792,0,0.0288,0.142,0.312,93.987,4
+"38","Blame It on the Boogie",FALSE,FALSE,71,1,"album","Destiny","1978-12-17","day",8,"album",0.774,0.641,1,-10.193,1,0.0799,0.0867,0.875,113.256,4
+"39","Rasputin",FALSE,FALSE,85,1,"single","Rasputin","2021-02-26","day",1,"album",0.758,0.913,6,-2.926,0,0.113,0.193,0.658,128.04,4
+"40","Don't Stop Me Now",FALSE,FALSE,58,12,"album","Jazz","1978-11-10","day",15,"album",0.561,0.757,5,-10.061,1,0.192,0.558,0.64,156.432,4
+"41","Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",FALSE,FALSE,64,1,"album","Sgt. Pepper's Lonely Hearts Club Band (Remastered)","1967-06-01","day",13,"album",0.451,0.673,7,-9.115,1,0.0734,0.797,0.583,95.513,4
