@@ -19,6 +19,7 @@
 
    - Rohan
       - Addressing the "Why use 2 indicator variable if there are three categories?" question in tutorial/homework be might a good content piece
+      - where are rows/observations addressed?
    - Cole
       - `graphviz` was not working on jupyterhub during the Week 11 video recording; and, I spent the last 45 minutes of a 2 hour 45 minute recording to not get model complexity selection with `GridSearchCV` working. 
       - `graphviz` is now available ... I plan to (soon?) add a recording about model complexity, test/training data, generalizability with `GridSearchCV` (which I will figure out how to use for the recording).  This recording will also begin with a review of decision tree visualization based on `graphviz` now working and should be a good way to pick up from the last recording (which got cut off at around 2 hours).
